@@ -1,4 +1,4 @@
-# e-muse_blender_utility_scripts
+# E-MUSE Blender utility scripts
 A few small scripts for making our Blender workflows easier and faster.
 Developed for [E-MUSE](https://e-muse.it).
 
