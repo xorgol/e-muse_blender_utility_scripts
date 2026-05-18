@@ -11,7 +11,7 @@ Select all objects that don't have an assigned material.
 ## Blender Selected Objects No Render
 Disables the rendering of the selected objects. It's like pressing H, but it hides from the render instead of from the viewport.
 
-## Blender Selected Objects Pos
+## Blender Selected Objects Pos 
 Export the coordinates and the material names of the selected objects. Useful for individually adding objects to a Three.js scene.
 
 ## Blender Selected Objects Rename
